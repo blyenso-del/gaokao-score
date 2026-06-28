@@ -1,0 +1,16 @@
+[start] 下载 2991 所学校 info.json, 8并发
+[progress] 200/2991 有分数=199 elapsed=24s
+[progress] 400/2991 有分数=399 elapsed=49s
+[progress] 600/2991 有分数=598 elapsed=74s
+[progress] 800/2991 有分数=796 elapsed=99s
+[progress] 1000/2991 有分数=995 elapsed=124s
+[progress] 1200/2991 有分数=1188 elapsed=149s
+[progress] 1400/2991 有分数=1387 elapsed=175s
+[progress] 1600/2991 有分数=1585 elapsed=200s
+[progress] 1800/2991 有分数=1784 elapsed=226s
+[progress] 2000/2991 有分数=1980 elapsed=252s
+[progress] 2200/2991 有分数=2175 elapsed=278s
+[progress] 2400/2991 有分数=2362 elapsed=304s
+[progress] 2600/2991 有分数=2555 elapsed=330s
+[progress] 2800/2991 有分数=2738 elapsed=357s
+[DONE] 2991 有分数=2859 elapsed=382s

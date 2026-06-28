@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.ruff_cache
+.pytest_cache
+.venv
+*.log
+__pycache__/
+.tmp
+.claude
+.vscode
